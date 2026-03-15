@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+.env
+*.log
+data/sample_videos/

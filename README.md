@@ -1,3 +1,5 @@
+[![CI](https://github.com/aasimansari1/smart-traffic-system/actions/workflows/ci.yml/badge.svg)](https://github.com/aasimansari1/smart-traffic-system/actions/workflows/ci.yml)
+
 <div align="center">
 
 # 🚦 Smart Traffic Management System
